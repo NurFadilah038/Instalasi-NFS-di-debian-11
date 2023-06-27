@@ -74,4 +74,3 @@ Untuk membatalkan mount : lakukan di client
 ------------------------------------
 $ Unmount /mnt/nfs/backup
 $ Unmount /mnt/nfs/documents
-![image](https://github.com/NurFadilah038/Instalasi-NFS-di-debian-11/assets/94078816/d1e55aef-75ee-4e5f-a44a-02fa569255f2)
